@@ -42,10 +42,10 @@ const Navbar = () => {
             window.scrollTo(0, 0);
           }}
         >
-          <img src={logo} alt='logo' className='w-9 h-9 object-contain' />
-          <p className='text-white text-[18px] font-bold cursor-pointer flex '>
+        
+          <p className='text-white text-[20px] font-bold cursor-pointer flex '>
             Who's COSMICKDD??&nbsp;
-            <span className='sm:block hidden'> | Utkarsh Tiwari</span>
+            <span className='sm:block hidden'> </span>
           </p>
         </Link>
 

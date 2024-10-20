@@ -9,7 +9,7 @@ import { fadeIn, textVariant } from "../utils/motion";
 
 const ServiceCard = ({ index, title, icon }) => (
   <Tilt
-    tiltMaxAngleX={45} // replaces max from options
+    tiltMaxAngleX={45}  
     tiltMaxAngleY={45}
     scale={1} // replaces scale from options
     transitionSpeed={450} // replaces speed from options
