@@ -23,6 +23,7 @@ import {
   jobit,
   tripguide,
   threejs,
+  hdms,
 } from "../assets";
 
 export const navLinks = [
@@ -220,7 +221,7 @@ const projects = [
       }
         
     ],
-    image: carrent,
+    image: hdms,
     source_code_link: "https://github.com/",
   },
   {
