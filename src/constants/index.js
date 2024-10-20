@@ -50,7 +50,7 @@ const services = [
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "UI/UX Designer",
     icon: backend,
   },
   {
@@ -172,15 +172,15 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "I thought it was impossible to make a website as beautiful as our idea in a choke deadline, but Utkarsh proved me wrong. such a talented developer! and his dedication to his work is truly inspiring.",
+    name: "Priyank Verma",
+    designation: "Devloper",
+    company: "null",
+    image: "https://portfolio-wine-nine-99.vercel.app/Mai.jpg",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
+      "I've never met a web developer who truly cares about their clients' success like Utkarsh does.",
     name: "Chris Brown",
     designation: "COO",
     company: "DEF Corp",
@@ -198,9 +198,9 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Hospital Data Management system",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "app-based system that allows efficient management of data at different hirearchial levels for better implimentation of schemes.",
     tags: [
       {
         name: "react",
@@ -214,6 +214,11 @@ const projects = [
         name: "tailwind",
         color: "pink-text-gradient",
       },
+      {
+        name: "figma",
+        color: "purple-text-gradient",
+      }
+        
     ],
     image: carrent,
     source_code_link: "https://github.com/",
