@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="285" height="29" viewBox="0 0 285 29" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g filter="url(#filter0_d_1_4)">
-<path d="M9.72443 20L4.55398 1.09091H6.88068L10.8324 16.4915H11.017L15.0426 1.09091H17.6278L21.6534 16.4915H21.8381L25.7898 1.09091H28.1165L22.946 20H20.5824L16.4091 4.93182H16.2614L12.0881 20H9.72443ZM30.9695 20V1.09091H33.2592V9.51136H43.3416V1.09091H45.6314V20H43.3416V11.5426H33.2592V20H30.9695ZM66.1701 10.5455C66.1701 12.5398 65.81 14.2633 65.0898 15.7159C64.3697…x"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dy="4"/>
-<feGaussianBlur stdDeviation="2"/>
-<feComposite in2="hardAlpha" operator="out"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
-<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_4"/>
-<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_4" result="shape"/>
-</filter>
-</defs>
-</svg>
+
